@@ -61,7 +61,7 @@ projects and has a tiered pricing model for private repositories, making it more
 smaller organizations and individual developers. But there is a limit of the free execution
 time for private projects on GitHubs. But it is cheaper than Jenkins anyway.
 
-Advantages of Jenkins over GitHub Actions
+Advantages of Jenkins over GitHub Actions:
 -Integration: Jenkins can integrate with a wide range of tools and services, but GitHub Actions 
 is tightly integrated with the GitHub platform, making it easier to automate tasks related to 
 your GitHub workflow. 
